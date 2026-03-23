@@ -8,7 +8,7 @@ https://satower9thgen.blogspot.com/2026/03/iot-pressure-monitor-with-max30100.ht
 
 A real-time IoT-based pressure monitoring system using MAX30100 sensor and ESP8266 with visual LED alerts and web interface for remote monitoring.
 
-![Dashboard Screenshot](<img width="1131" height="375" alt="image" src="https://github.com/user-attachments/assets/65f25809-d1ec-4bed-a77f-2e67c3660bd1" />)
+![Dashboard Screenshot](https://cdn.phototourl.com/free/2026-03-23-9392ec83-39e9-4ede-b0f6-42d513b9457b.png)
 
 ## 📋 Table of Contents
 - [Overview](#overview)
