@@ -70,18 +70,7 @@ YouTube video link (https://youtu.be/At13tNv1qd8?si=ifGpRulyCqVuRdfS)
 | Jumper Wires | Several | Connections |
 | USB Cable | 1 | Power and programming |
 
-## 🔌 Circuit Diagram
-┌─────────────┐ ┌─────────────┐ ┌─────────────┐
-│ MAX30100 │ │ ESP8266 │ │ LEDs │
-│ │ │ (NodeMCU) │ │ │
-│ VCC ────────┼────┼─── 3.3V │ │ │
-│ GND ────────┼────┼─── GND │ │ │
-│ SCL ────────┼────┼─── D1 (GPIO5) │ │ │
-│ SDA ────────┼────┼─── D2 (GPIO4) │ │ │
-│ │ │ │ │ Red LED ───┼─── D5 (GPIO14)
-└─────────────┘ │ │ │ Green LED ──┼─── D6 (GPIO12)
-└─────────────┘ └─────────────┘
-
+## 
 text
 
 ## 📡 Wiring Connections
