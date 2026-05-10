@@ -35,7 +35,9 @@ This project implements a real-time pressure monitoring system using MAX30100 se
 - Web-based dashboard for remote monitoring
 - Adjustable pressure threshold
 - Real-time heart rate and SpO2 display
-  output YouTube video link (https://youtu.be/At13tNv1qd8?si=ifGpRulyCqVuRdfS)
+  output
+
+YouTube video link (https://youtu.be/At13tNv1qd8?si=ifGpRulyCqVuRdfS)
 ## ✨ Features
 
 ### LED Indicators
